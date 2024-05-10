@@ -1,0 +1,21 @@
+Design a microservice, exposing 4 apis. It’s a commenting system. No need to integrate any db, you can store in memory.
+Get all comments
+Get all comments by postId
+User can Post a comment
+User can reply to comment
+
+
+Post {
+
+
+    List<Comment> comment
+
+}
+
+comment {
+    comment;
+}
+
+user {
+
+}
